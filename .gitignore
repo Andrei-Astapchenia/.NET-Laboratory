@@ -1,1 +1,9 @@
 .vs/
+*.user
+*.suo
+
+[Bb]in/
+[Oo]bj/
+
+# VS Code
+.vscode/
